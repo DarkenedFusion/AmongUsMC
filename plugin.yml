@@ -1,0 +1,7 @@
+name: AmongUsMC
+version: 1.0.0
+author: darkenedfusion
+main: com.darkenedfusion.AmongUsMC
+commands:
+  start:
+    description: Starts the game!
